@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Pradeep</h1>
+<h1 align="center">Hey 👋 I'm Pradeepkumar</h1>
 
 <h3 align="center">
 AI • GenAI • Full Stack Developer
@@ -78,7 +78,7 @@ AI system for interview preparation and guidance.
 
 💼 LinkedIn: linkedin.com/in/pradeepkumar-m-21685a335
 
-🌐 Portfolio: Add Your Portfolio Link  
+🌐 Portfolio: https://github.com/pradeepgt02/my_portfolio
 
 ---
 
