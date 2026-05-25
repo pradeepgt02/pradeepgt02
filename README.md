@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Pradeep</h1>
 
-<!--
-**pradeepgt02/pradeepgt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI • GenAI • Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI systems, scalable applications and solving real-world problems 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 About Me
+
+🎓 Final Year Engineering Student  
+🤖 Interested in GenAI & Agentic AI  
+💻 Full Stack Developer  
+🚀 Building AI Applications with modern technologies  
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,docker,postgres,git,github,vscode" />
+
+</p>
+
+---
+
+# 🔥 Currently Learning
+
+✅ Generative AI  
+✅ RAG  
+✅ LangChain  
+✅ LCEL  
+✅ Agents  
+✅ CrewAI  
+✅ AutoGen  
+✅ LangGraph  
+✅ DSPy  
+✅ Docker  
+✅ Deployment  
+
+---
+
+# 📌 Featured Project
+
+### 🎯 Interview Mentor AI
+AI system for interview preparation and guidance.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pradeepgt02&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepgt02&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: pradeepkumarmswiss02@gmail.com
+
+💼 LinkedIn: linkedin.com/in/pradeepkumar-m-21685a335
+
+🌐 Portfolio: Add Your Portfolio Link  
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
