@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋 I'm Pradeepkumar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Pradeepkumar+M;AI+Engineer..!!;Building+Real-World+AI+Systems" />
+</p>
 
 <h3 align="center">
 AI • GenAI • Full Stack Developer
