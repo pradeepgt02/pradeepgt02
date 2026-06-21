@@ -15,7 +15,7 @@ Building AI systems, scalable applications and solving real-world problems 🚀
 # 🧠 About Me
 
 🎓 Final Year Engineering Student  
-🤖 Interested in GenAI & Agentic AI  
+🤖 Interested in GenAI & Agentic AI  & Automation Testing
 💻 Full Stack Developer  
 🚀 Building AI Applications with modern technologies  
 
