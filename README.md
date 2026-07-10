@@ -1,3 +1,4 @@
+<img width="1600" height="639" alt="WhatsApp Image 2026-07-10 at 4 21 02 PM" src="https://github.com/user-attachments/assets/74e1d7b3-cdee-4632-8b80-ec841c637455" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Pradeepkumar+M;AI+Engineer..!!;GenAI..!!;Building+Real-World+AI+Systems" />
