@@ -80,7 +80,7 @@ AI system for interview preparation and guidance.
 
 📧 Email: pradeepkumarmswiss02@gmail.com
 
-💼 LinkedIn: linkedin.com/in/pradeepkumar-m-21685a335
+💼 LinkedIn: http://linkedin.com/in/pradeepkumar-m-21685a335
 
 🌐 Portfolio: https://github.com/pradeepgt02/my_portfolio
 
