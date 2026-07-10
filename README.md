@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-AI • GenAI • Full Stack Developer
+AI • GenAI • Software Tester
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building AI systems, scalable applications and solving real-world problems 🚀
 
 🎓 Final Year Engineering Student  
 🤖 Interested in GenAI & Agentic AI  & Automation Testing
-💻 Full Stack Developer  
+💻 Software Tester 
 🚀 Building AI Applications with modern technologies  
 
 ---
@@ -45,7 +45,8 @@ Building AI systems, scalable applications and solving real-world problems 🚀
 ✅ DSPy  
 ✅ Docker  
 ✅ Deployment  
-
+✅ Manual Testing
+✅ Automation Testing
 ---
 
 # 📌 Featured Project
