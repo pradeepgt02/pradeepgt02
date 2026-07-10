@@ -1,3 +1,4 @@
+<img width="1427" height="257" alt="image" src="https://github.com/user-attachments/assets/3ce2bafb-0c6d-477d-acc5-f8fa221466f9" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Pradeepkumar+M;AI+Engineer..!!;GenAI..!!;Building+Real-World+AI+Systems" />
 </p>
