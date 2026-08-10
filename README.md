@@ -1,94 +1,211 @@
-<img width="1600" height="639" alt="WhatsApp Image 2026-07-10 at 4 21 02 PM" src="https://github.com/user-attachments/assets/74e1d7b3-cdee-4632-8b80-ec841c637455" />
+<!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Pradeepkumar+M;AI+Engineer..!!;GenAI..!!;Building+Real-World+AI+Systems" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm Pradeepkumar M
+</h1>
 
 <h3 align="center">
-AI • GenAI • Software Tester
+  🤖 Generative AI Engineer &nbsp;•&nbsp; 🧪 Software Tester &nbsp;•&nbsp; ⚙️ Automation Enthusiast
 </h3>
 
 <p align="center">
-Building AI systems, scalable applications and solving real-world problems 🚀
+  <i>
+    Building intelligent applications, testing them thoroughly,
+    and turning ideas into reliable software.
+  </i>
 </p>
-
----
-
-# 🧠 About Me
-
-🎓 Final Year Engineering Student  
-🤖 Interested in GenAI & Agentic AI  & Automation Testing
-💻 Software Tester 
-🚀 Building AI Applications with modern technologies  
-
----
-
-# 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,react,fastapi,docker,postgres,git,github,vscode" />
-
+  <a href="https://github.com/pradeepgt02">
+    <img src="https://komarev.com/ghpvc/?username=pradeepgt02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-# 🔥 Currently Learning
+<!-- ======================= ABOUT ME ======================= -->
 
-✅ Generative AI  
-✅ RAG  
-✅ LangChain  
-✅ LCEL  
-✅ Agents  
-✅ CrewAI  
-✅ AutoGen  
-✅ LangGraph  
-✅ DSPy  
-✅ Docker  
-✅ Deployment  
-✅ Manual Testing
-✅ Automation Testing
+## 🧠 About Me
+
+🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
+
+🤖 Interested in **Generative AI, RAG, LLMs, AI Agents & Agentic AI**
+
+🧪 Passionate about **Software Testing, Quality Assurance & Test Automation**
+
+💻 Building practical applications using **React, FastAPI and Python**
+
+⚙️ Exploring **API Testing, Web Automation & Mobile Testing**
+
+🚀 Interested in turning AI ideas into real-world applications
+
+📚 Continuously learning, building, testing and improving
+
+<br>
+
+> **Build intelligent systems. Test them thoroughly. Deliver reliable software.**
+
 ---
 
-# 📌 Featured Project
+<!-- ======================= WHAT I DO ======================= -->
 
-### 🎯 Interview Mentor AI
-AI system for interview preparation and guidance.
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Generative AI
+
+- RAG Applications
+- LLM Applications
+- AI Agents
+- Agentic AI
+- Prompt Engineering
+- Embeddings
+- Semantic Search
+- Document Q&A
+
+</td>
+
+<td width="50%">
+
+### 🧪 Software Testing
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing
+- Web Automation
+- Mobile Testing
+- Test Case Design
+- Defect Reporting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Application Development
+
+- React Applications
+- FastAPI Backends
+- REST APIs
+- API Integration
+- AI-powered Applications
+- Frontend & Backend Integration
+
+</td>
+
+<td width="50%">
+
+### 📊 Data & ML
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- OpenCV
+- NLP
+- Data Analysis
+- Machine Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+<!-- ======================= TECH STACK ======================= -->
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeepgt02&show_icons=true&theme=tokyonight"/>
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+`Python` `Machine Learning` `Generative AI` `RAG` `LLMs`  
+`NLP` `AI Agents` `Agentic AI` `Embeddings` `Semantic Search`  
+`Computer Vision` `Prompt Engineering`
+
+---
+
+### 🌐 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,html,css,js,tailwind" />
+</p>
+
+`React` `FastAPI` `REST APIs` `API Integration`  
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
+
+---
+
+### 🧪 Testing & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 
 </p>
 
+`Manual Testing` `Functional Testing` `Smoke Testing`  
+`Sanity Testing` `Regression Testing` `Retesting`  
+`API Testing` `Web Testing` `Mobile Testing`  
+`Test Cases` `Test Scenarios` `Bug Reports`  
+`Assertions` `Page Object Model` `Automation Frameworks`
+
 ---
 
-# 🔥 GitHub Streak
+### 🗄️ Database, Data & Tools
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepgt02&theme=tokyonight"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
 </p>
 
----
-
-# 🌐 Connect With Me
-
-📧 Email: pradeepkumarmswiss02@gmail.com
-
-💼 LinkedIn: http://linkedin.com/in/pradeepkumar-m-21685a335
-
-🌐 Portfolio: https://github.com/pradeepgt02/my_portfolio
+`SQL` `MySQL` `PostgreSQL` `Pandas` `NumPy`  
+`Matplotlib` `Scikit-learn` `OpenCV`  
+`Git` `GitHub` `Docker` `VS Code`
 
 ---
 
-<p align="center">
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
-⭐ Thanks for visiting my profile ⭐
+## 🔥 Currently Learning
 
-</p>
+### 🤖 Generative AI Journey
+
+```text
+                 GENERATIVE AI
+                       │
+                       ▼
+                      LLMs
+                       │
+                       ▼
+                 Embeddings
+                       │
+                       ▼
+                  RAG Systems
+                       │
+                       ▼
+                  AI Agents
+                       │
+                       ▼
+                 Agentic AI
+                       │
+                       ▼
+              Multi-Agent Systems
+                       │
+                       ▼
+          Production AI Applications
