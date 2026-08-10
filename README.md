@@ -1,27 +1,20 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Pradeepkumar M
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pradeepkumar+M;Generative+AI+Engineer+%F0%9F%A4%96;Software+Tester+%F0%9F%A7%AA;Automation+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h3 align="center">
-  🤖 Generative AI Engineer &nbsp;•&nbsp; 🧪 Software Tester &nbsp;•&nbsp; ⚙️ Automation Enthusiast
-</h3>
+<br>
 
-<p align="center">
-  <i>
-    Building intelligent applications, testing them thoroughly,
-    and turning ideas into reliable software.
-  </i>
-</p>
+<i>Building intelligent applications, testing them thoroughly, and turning ideas into reliable software.</i>
 
-<p align="center">
-  <a href="https://github.com/pradeepgt02">
-    <img src="https://komarev.com/ghpvc/?username=pradeepgt02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pradeepgt02&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
+
+## 🧠 About Me
 
 <!-- ======================= ABOUT ME ======================= -->
 
