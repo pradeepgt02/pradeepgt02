@@ -1,284 +1,192 @@
-<!-- ====================================================== -->
-<!--                    ANIMATED HEADER                     -->
-<!-- ====================================================== -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F5CFF,100:FF4ECD&height=230&section=header&text=Pradeepkumar%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=GENERATIVE%20AI%20%7C%20SOFTWARE%20TESTING%20%7C%20AUTOMATION&descAlignY=62&descSize=17"
-    width="100%"
-    alt="Animated Header"
-  />
-</p>
-
-<!-- ====================================================== -->
-<!--                    TYPING ANIMATION                    -->
-<!-- ====================================================== -->
-
-<p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Pradeepkumar+M;Generative+AI+Engineer+%F0%9F%A4%96;Software+Tester+%F0%9F%A7%AA;QA+Automation+Enthusiast+%E2%9A%99%EF%B8%8F;RAG+%7C+LLMs+%7C+AI+Agents+%7C+Agentic+AI;React+%7C+FastAPI+%7C+REST+APIs;Selenium+%7C+Playwright+%7C+Appium+%7C+PyTest"
-  alt="Typing Animation"
-/>
-
-</p>
-
-<p align="center">
-  <i>
-    Building intelligent applications, testing them thoroughly,
-    and turning ideas into reliable software.
-  </i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=PRADEEPKUMAR%20M&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=%3C%20building%20%2F%20testing%20%2F%20shipping%20intelligent%20software%20%3E&descAlignY=58&descSize=16&descColor=B8B8FF" width="100%"/>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                       BADGES                            -->
-<!-- ====================================================== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+whoami+%3A+GenAI+Engineer;%3E+status+%3A+Building+RAG+%26+Agentic+AI;%3E+side_quest+%3A+Breaking+things+as+a+QA+Tester;%3E+mission+%3A+Ship+reliable%2C+intelligent+software" alt="Typing SVG" />
 
-<p align="center">
+<br><br>
 
-<img
-  src="https://img.shields.io/badge/GENAI-7F5CFF?style=for-the-badge&logo=openai&logoColor=white"
-  alt="Generative AI"
-/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0F0C29"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=0F0C29"/></a>
+<a href="https://github.com/pradeepgt02"><img src="https://img.shields.io/badge/GITHUB-0F0C29?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0F0C29"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=0F0C29"/></a>
 
-<img
-  src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge"
-  alt="RAG"
-/>
+<img src="https://komarev.com/ghpvc/?username=pradeepgt02&label=VISITORS&color=302B63&style=for-the-badge&labelColor=0F0C29" />
 
-<img
-  src="https://img.shields.io/badge/AI%20AGENTS-FF4ECD?style=for-the-badge"
-  alt="AI Agents"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/QA%20AUTOMATION-00C853?style=for-the-badge"
-  alt="QA Automation"
-/>
-
-<img
-  src="https://img.shields.io/badge/API%20TESTING-FF6C37?style=for-the-badge"
-  alt="API Testing"
-/>
-
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                       ABOUT ME                          -->
-<!-- ====================================================== -->
-
-# 🧠 About Me
-
-🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
-
-🤖 Interested in **Generative AI, RAG, LLMs, AI Agents & Agentic AI**
-
-🧪 Passionate about **Software Testing, Quality Assurance & Test Automation**
-
-💻 Building practical applications using **React, FastAPI and Python**
-
-⚙️ Exploring **API Testing, Web Automation & Mobile Testing**
-
-🚀 Interested in turning AI ideas into real-world applications
-
-📚 Continuously learning, building, testing and improving
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <br>
 
-> 💡 **Build intelligent systems. Test them thoroughly. Deliver reliable software.**
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  pradeepkumar@dev  ~  neofetch                                    │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│   OS ................ B.Tech Artificial Intelligence & ML         │
+│   Focus ............. Generative AI · RAG · LLMs · Agentic AI     │
+│   Secondary ......... Software Testing · QA · Automation          │
+│   Stack .............. React · FastAPI · Python                   │
+│   Currently.exe ..... learning to ship production-grade AI        │
+│   Uptime ............. always building, always testing            │
+│                                                                    │
+└──────────────────────────────────────────────────────────────────┘
+```
 
----
+<br>
 
-<!-- ====================================================== -->
-<!--                       WHAT I DO                         -->
-<!-- ====================================================== -->
+## ⟶ about
 
-# 🚀 What I Do
+I build **AI-powered applications** — RAG pipelines, LLM apps, and autonomous agents — then put on my **QA hat** and break them on purpose before anyone else can. That loop of *build → test → refine* is what I actually enjoy.
 
-<table>
+- 🧬 Exploring the stack from **embeddings → RAG → agents → agentic systems**
+- 🔬 Test everything I ship: manual, functional, regression, API, web, mobile
+- 🛠️ Full-stack with **React** on the front, **FastAPI** on the back
+- 🧭 Long-term goal: production-grade, reliable AI systems — not demos
+
+<br>
+
+## ⟶ domains
+
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-## 🤖 Generative AI
-
-- RAG Applications
-- LLM Applications
-- AI Agents
-- Agentic AI
-- Prompt Engineering
-- Embeddings
-- Semantic Search
-- Document Q&A
+**`generative_ai/`**
+```
+├── RAG pipelines
+├── LLM applications
+├── AI Agents & Agentic AI
+├── Prompt engineering
+├── Embeddings & semantic search
+└── Document Q&A systems
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🧪 Software Testing
-
-- Manual Testing
-- Functional Testing
-- Smoke Testing
-- Sanity Testing
-- Regression Testing
-- Retesting
-- API Testing
-- Defect Reporting
+**`quality_assurance/`**
+```
+├── Manual & functional testing
+├── Regression & sanity testing
+├── API testing
+├── Web automation
+├── Mobile testing
+└── Test design & defect reporting
+```
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🌐 Application Development
-
-- React Applications
-- FastAPI Backends
-- REST APIs
-- API Integration
-- AI-powered Applications
-- Frontend & Backend Integration
+**`applications/`**
+```
+├── React front-ends
+├── FastAPI back-ends
+├── REST API design
+├── AI-powered full-stack apps
+└── Frontend ↔ backend integration
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📊 Data & ML
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- OpenCV
-- NLP
-- Data Analysis
-- Machine Learning
+**`data_ml/`**
+```
+├── Python · Pandas · NumPy
+├── Scikit-learn
+├── OpenCV
+├── NLP
+└── Machine learning
+```
 
 </td>
-
 </tr>
 </table>
 
----
+<br>
 
-<!-- ====================================================== -->
-<!--                       TECH STACK                       -->
-<!-- ====================================================== -->
+## ⟶ stack
 
-# 🛠️ Tech Stack
+<div align="center">
 
-## 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,js,html,css,tailwind,mysql,postgres,git,github,docker,vscode&theme=dark" />
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7F5CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-FF4ECD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-00A8E8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
 
-</p>
+<div align="center">
 
----
+`RAG` `LLMs` `AI Agents` `Agentic AI` `Prompt Engineering` `Embeddings` `NLP` `Computer Vision`
 
-## 🌐 Development
+`Selenium` `Playwright` `Appium` `Postman` `PyTest` `Page Object Model`
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<br>
 
-</p>
+## ⟶ learning path
 
----
+<div align="center">
 
-## 🧪 Testing & Automation
+```
+ GENERATIVE AI ─▶ LLMs ─▶ EMBEDDINGS ─▶ RAG ─▶ AI AGENTS ─▶ AGENTIC AI ─▶ MULTI-AGENT ─▶ PRODUCTION AI
+```
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<br>
 
-</p>
+## ⟶ contribution snake 🐍
 
-<p align="center">
+<div align="center">
 
-`Manual Testing` • `Functional Testing` • `Smoke Testing`
+<img src="https://raw.githubusercontent.com/pradeepgt02/pradeepgt02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-`Sanity Testing` • `Regression Testing` • `Retesting`
+<sub>Animated snake that eats through my contribution graph — auto-updates daily. See setup note below ⬇️</sub>
 
-`API Testing` • `Web Testing` • `Mobile Testing`
+</div>
 
-`Test Cases` • `Bug Reporting` • `Assertions`
+<br>
 
-`Page Object Model` • `Automation Frameworks`
+## ⟶ stats
 
-</p>
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pradeepgt02&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F0C29&title_color=00F7FF&icon_color=B8B8FF&text_color=E0E0FF&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepgt02&layout=compact&theme=synthwave&hide_border=true&bg_color=0F0C29&title_color=00F7FF&text_color=E0E0FF"/>
 
-## 🗄️ Database & Tools
+<br>
 
-<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepgt02&theme=dark&hide_border=true&background=0F0C29&ring=00F7FF&fire=B8B8FF&currStreakLabel=00F7FF"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<br>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepgt02&theme=synthwave&hide_border=true&bg_color=0F0C29&color=00F7FF&line=B8B8FF&point=E0E0FF"/>
 
----
+</div>
 
-<!-- ====================================================== -->
-<!--                  CURRENTLY LEARNING                    -->
-<!-- ====================================================== -->
+<br>
 
-# 🔥 Currently Learning
+## ⟶ connect
 
-## 🤖 Generative AI Journey
+<div align="center">
 
-```text
-                    GENERATIVE AI
-                          │
-                          ▼
-                         LLMs
-                          │
-                          ▼
-                     Embeddings
-                          │
-                          ▼
-                     RAG Systems
-                          │
-                          ▼
-                      AI Agents
-                          │
-                          ▼
-                     Agentic AI
-                          │
-                          ▼
-                 Multi-Agent Systems
-                          │
-                          ▼
-               Production AI Apps
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0F0C29"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=0F0C29"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/TWITTER-0F0C29?style=for-the-badge&logo=twitter&logoColor=00F7FF&labelColor=0F0C29"/></a>
+
+<br><br>
+
+<i>"Build intelligent systems. Test them thoroughly. Deliver reliable software."</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+
+</div>
