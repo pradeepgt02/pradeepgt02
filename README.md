@@ -17,6 +17,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
 <br>
 
 ```
@@ -135,6 +137,18 @@ I build **AI-powered applications** — RAG pipelines, LLM apps, and autonomous 
 ```
  GENERATIVE AI ─▶ LLMs ─▶ EMBEDDINGS ─▶ RAG ─▶ AI AGENTS ─▶ AGENTIC AI ─▶ MULTI-AGENT ─▶ PRODUCTION AI
 ```
+
+</div>
+
+<br>
+
+## ⟶ contribution snake 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pradeepgt02/pradeepgt02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+<sub>Animated snake that eats through my contribution graph — auto-updates daily. See setup note below ⬇️</sub>
 
 </div>
 
